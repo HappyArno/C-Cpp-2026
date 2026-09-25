@@ -1,0 +1,3 @@
+level1.txt: 11
+level2.txt: 27
+level3.txt: 31
