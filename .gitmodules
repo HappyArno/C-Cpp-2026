@@ -1,0 +1,3 @@
+[submodule "level2/NeuralNetworks/cppnn-demo"]
+	path = level2/NeuralNetworks/cppnn-demo
+	url = https://github.com/HappyArno/cppnn-demo
